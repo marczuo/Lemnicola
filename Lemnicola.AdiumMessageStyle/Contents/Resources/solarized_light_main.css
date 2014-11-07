@@ -1,0 +1,32 @@
+body
+{
+	color: #657b83;
+	background-color: #fdf6e3;
+	margin: 2px;
+	line-height: 1.4em;
+}
+
+.status {
+	margin: 5px 30px;
+}
+
+.history span {
+	opacity: .5!important;
+}
+
+#Chat {
+	padding-bottom: 2px;
+}
+
+.time, .sender, .timesep, .sendersep {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.separator {
+	position: relative;
+	top: 1.1px;
+}
+

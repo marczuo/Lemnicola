@@ -1,0 +1,32 @@
+.incoming .sender {
+    color: #002b36;
+	background-color: #cb4b16;
+}
+
+.outgoing .sender {
+    color: #002b36;
+	background-color: #268bd2;
+}
+
+.incoming .time, .outgoing .time {
+	color: #93a1a1;
+	background-color: #073642;
+}
+
+.incoming .sendersep {
+	color: #cb4b16;
+}
+
+.outgoing .sendersep {
+	color: #268bd2;
+}
+
+.incoming .timesep {
+	color: #073642;
+	background-color: #cb4b16;
+}
+
+.outgoing .timesep {
+	color: #073642;
+	background-color: #268bd2;
+}
