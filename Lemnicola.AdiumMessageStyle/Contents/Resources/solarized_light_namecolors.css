@@ -14,19 +14,17 @@
 }
 
 .incoming .sendersep {
-	color: #cb4b16;
+	border-color: transparent transparent transparent #cb4b16;
 }
 
 .outgoing .sendersep {
-	color: #268bd2;
+	border-color: transparent transparent transparent #268bd2;
 }
 
 .incoming .timesep {
-	color: #eee8d5;
-	background-color: #cb4b16;
+	border-color: #cb4b16 transparent #cb4b16 #eee8d5;
 }
 
 .outgoing .timesep {
-	color: #eee8d5;
-	background-color: #268bd2;
+	border-color: #268bd2 transparent #268bd2 #eee8d5;
 }
