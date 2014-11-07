@@ -30,3 +30,6 @@ body
 	top: 1.1px;
 }
 
+.history .timesep, .history .sendersep {
+	display: none;
+}

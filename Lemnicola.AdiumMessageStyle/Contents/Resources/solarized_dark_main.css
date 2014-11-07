@@ -11,7 +11,7 @@ body
 }
 
 .history span {
-	opacity: .5!important;
+	opacity: .5 !important;
 }
 
 #Chat {
@@ -30,3 +30,6 @@ body
 	top: 1.1px;
 }
 
+.history .timesep, .history .sendersep {
+	display: none;
+}
